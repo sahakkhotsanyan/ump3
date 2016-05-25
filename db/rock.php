@@ -1,3 +1,3 @@
 <?php
-$db = array("Muse - Uprising.mp3","","");
+$db = array("Muse%20-%20Uprising.mp3","","");
 ?>
